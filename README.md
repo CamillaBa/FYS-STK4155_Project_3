@@ -20,6 +20,7 @@ These data can be generated again by running the relevant files.
 
 Unfortunaly, the data used to make figure 2 and 3 is a few Gb in size,
 and we can not find a good way to upload it. Therefore, it is not included.
+If you want to see the rest of the data, feel free to contact me.
 
 See the methods section in our report for more details on the classes
 "simple_mlp" and "one_dim_diffusion_eq.py", as well as "momentum_gym".
