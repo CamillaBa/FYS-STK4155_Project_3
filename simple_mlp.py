@@ -39,4 +39,8 @@ class simple_MLP:
             a = A[l](z)
 
         # return ouput layer
-        return a[0]
+        return a[0]             #<--- Ops! This should have been just "a" since the output need not be a 1-dim array.
+                                #     This only makes sense for the example we consider because we want the output to be
+                                #     a number and not a 1-dim array.
+                                #     We noticed this an hour before the deadline, and we don't want to change anything,
+                                #     because there might be unwanted concequences.
