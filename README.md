@@ -1,5 +1,7 @@
 # FYS-STK4155_Project_3
 
+(View raw format to see blank space formatting)
+
 This repository contains:
 
 * long_training_session.py          (comparison to analytical solution from long training session)
