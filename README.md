@@ -15,7 +15,7 @@ This repository contains:
                                     descent methods that we considered.)
 
 
-The folder "data" contains the data to generate plots.
+The folder "data" contains *some* of the data to generate plots.
 These data can be generated again by running the relevant files.
 
 See the methods section in our report for more details on the classes
